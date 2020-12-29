@@ -1,0 +1,13 @@
+fsl_common.h:552:28:DisableGlobalIRQ	8	static
+fsl_common.h:583:24:EnableGlobalIRQ	16	static
+ota_bootloader_supp.c:98:6:crc32_init	8	static
+ota_bootloader_supp.c:106:6:crc32_update	32	static
+ota_bootloader_supp.c:122:6:crc32_finalize	24	static
+ota_bootloader_supp.c:142:10:bl_crc32	32	static
+ota_bootloader_supp.c:154:9:bl_verify_image	24	static
+ota_bootloader_supp.c:193:10:bl_api_version	0	static
+ota_bootloader_supp.c:198:6:bl_set_flash_driver_if	8	static
+ota_bootloader_supp.c:203:10:bl_get_update_partition_info	16	static
+ota_bootloader_supp.c:213:10:bl_update_image_state	24	static
+ota_bootloader_supp.c:234:10:bl_get_image_state	16	static
+ota_bootloader_supp.c:244:10:bl_update_partition_table	16	static

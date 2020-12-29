@@ -1,0 +1,9 @@
+fsl_gpio.h:101:20:GPIO_WritePinOutput	24	static
+fsl_iomuxc.h:1322:20:IOMUXC_EnableMode	16	static
+main_enet.c:125:6:BOARD_InitModuleClock	16	static
+main_enet.c:131:6:delay	8	static
+main_enet.c:140:5:initNetwork	56	static
+main_enet.c:193:6:print_string	16	static
+main_enet.c:198:6:vApplicationDaemonTaskStartupHook	8	static
+main_enet.c:225:5:main	24	static
+main_enet.c:255:7:pvPortCalloc	24	static

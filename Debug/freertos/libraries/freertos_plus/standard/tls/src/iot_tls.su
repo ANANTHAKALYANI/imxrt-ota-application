@@ -1,0 +1,13 @@
+iot_tls.c:137:13:prvFreeContext	16	static
+iot_tls.c:168:12:prvNetworkSend	32	static
+iot_tls.c:188:12:prvNetworkRecv	32	static
+iot_tls.c:208:12:prvGenerateRandomBytes	32	static
+iot_tls.c:239:12:prvCheckCertificate	96	static
+iot_tls.c:317:12:prvPrivateKeySigningCallback	320	static
+iot_tls.c:425:12:prvReadCertificateIntoContext	48	static
+iot_tls.c:504:12:prvInitializeClientCredential	80	static
+iot_tls.c:693:12:TLS_Init	32	static
+iot_tls.c:763:12:TLS_Connect	32	static
+iot_tls.c:951:12:TLS_Recv	40	static
+iot_tls.c:1000:12:TLS_Send	40	static
+iot_tls.c:1052:6:TLS_Cleanup	24	static
